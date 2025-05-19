@@ -26,7 +26,7 @@ Stay safe and remember to push 🙌
           </tr>
           <tr>
             <td align="center">CSS</td>
-            <td align="center"><a href="https://www.w3schools.com/html/"><img src="https://skillicons.dev/icons?i=css" /></a></td>
+            <td align="center"><a href="https://www.w3schools.com/css/"><img src="https://skillicons.dev/icons?i=css" /></a></td>
             <td align="center">Advanced</td>
           </tr>
           <tr>
