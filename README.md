@@ -45,6 +45,11 @@ Stay safe and remember to push 🙌
             <td align="center">Intermediate</td>
           </tr>
           <tr>
+            <td align="center">Vite</td>
+            <td align="center"><a href="https://vite.dev/"><img src="https://skillicons.dev/icons?i=vite" /></a></td>
+            <td align="center">Intermediate</td>
+          </tr>
+          <tr>
             <td align="center">Vue Js</td>
             <td align="center"><a href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue" /></a></td>
             <td align="center">Intermediate</td>
