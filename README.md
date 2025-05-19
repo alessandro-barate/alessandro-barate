@@ -21,32 +21,32 @@ Stay safe and remember to push 🙌
           </tr>
           <tr>
             <td align="center">HTML</td>
-            <td align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html" /></a></td>
+            <td align="center"><a href="https://www.w3schools.com/html/"><img src="https://skillicons.dev/icons?i=html" /></a></td>
             <td align="center">Advanced</td>
           </tr>
           <tr>
             <td align="center">CSS</td>
-            <td align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css" /></a></td>
+            <td align="center"><a href="https://www.w3schools.com/html/"><img src="https://skillicons.dev/icons?i=css" /></a></td>
             <td align="center">Advanced</td>
           </tr>
           <tr>
             <td align="center">SASS</td>
-            <td align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=sass" /></a></td>
+            <td align="center"><a href="https://sass-lang.com/"><img src="https://skillicons.dev/icons?i=sass" /></a></td>
             <td align="center">Intermediate</td>
           </tr>
           <tr>
             <td align="center">Bootstrap</td>
-            <td align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bootstrap" /></a></td>
+            <td align="center"><a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" /></a></td>
             <td align="center">Intermediate</td>
           </tr>
           <tr>
             <td align="center">JavaScript</td>
-            <td align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=javascript" /></a></td>
+            <td align="center"><a href="https://www.w3schools.com/js/DEFAULT.asp"><img src="https://skillicons.dev/icons?i=javascript" /></a></td>
             <td align="center">Intermediate</td>
           </tr>
           <tr>
             <td align="center">Vue Js</td>
-            <td align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vue" /></a></td>
+            <td align="center"><a href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue" /></a></td>
             <td align="center">Intermediate</td>
           </tr>
         </table>
@@ -60,23 +60,23 @@ Stay safe and remember to push 🙌
             <th align="center">Level</th>
           </tr>
           <tr>
-            <td align="center">Vue Js</td>
-            <td align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql" /></a></td>
+            <td align="center">MySQL</td>
+            <td align="center"><a href="https://www.mysql.com/it/"><img src="https://skillicons.dev/icons?i=mysql" /></a></td>
             <td align="center">Basic</td>
           </tr>
           <tr>
-            <td align="center">Vue Js</td>
+            <td align="center">phpMyAdmin</td>
             <td align="center"></td>
             <td align="center">Basic</td>
           </tr>
           <tr>
-            <td align="center">Vue Js</td>
-            <td align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php" /></a></td>
+            <td align="center">PHP</td>
+            <td align="center"><a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" /></a></td>
             <td align="center">Basic</td>
           </tr>
           <tr>
-            <td align="center">Vue Js</td>
-            <td align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=laravel" /></a></td>
+            <td align="center">Laravel</td>
+            <td align="center"><a href="https://laravel.com/"><img src="https://skillicons.dev/icons?i=laravel" /></a></td>
             <td align="center">Basic</td>
           </tr>
         </table>
@@ -93,22 +93,22 @@ Stay safe and remember to push 🙌
           </tr>
           <tr>
             <td align="center">Docker</td>
-            <td align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker" /></a></td>
+            <td align="center"><a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" /></a></td>
           </tr>
           <tr>
             <td align="center">Flutter</td>
-            <td align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flutter" /></a></td>
+            <td align="center"><a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter" /></a></td>
           </tr>
           <tr>
             <td align="center">Python</td>
-            <td align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python" /></a></td>
+            <td align="center"><a href="https://www.python.org/v"><img src="https://skillicons.dev/icons?i=python" /></a></td>
           </tr>
         </table>
 
 
 <h3 align="center">Tools and others</h3>
 
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,visualstudio,ubuntu" /></a></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=git,visualstudio,ubuntu" /></p>
 
 ## What I love ♥️
 
