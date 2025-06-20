@@ -108,6 +108,10 @@ Stay safe and remember to push 🙌
             <td align="center">Python</td>
             <td align="center"><a href="https://www.python.org/v"><img src="https://skillicons.dev/icons?i=python" /></a></td>
           </tr>
+          <tr>
+            <td align="center">React</td>
+            <td align="center"><a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" /></a></td>
+          </tr>
         </table>
 
 
