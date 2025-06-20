@@ -110,7 +110,7 @@ Stay safe and remember to push 🙌
           </tr>
           <tr>
             <td align="center">React</td>
-            <td align="center"><a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" /></a></td>
+            <td align="center"><a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" /></a></td>
           </tr>
         </table>
 
